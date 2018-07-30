@@ -1,0 +1,42 @@
+
+
+body{
+    font-family: 'Noto Sans', sans-serif;
+    /*font-family:      Helvetica, Arial, FreeSans, san-serif;*/
+    font-size:          14px;
+    color:              #000000;
+    background-color:   #ffffff;
+    line-height:        normal;
+    text-align:         center;
+}
+
+
+
+th ,td {
+    margin: auto;
+    border: 1px solid #bbbbbb;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+table {
+    border-collapse: collapse;
+    border: 1px solid #bbbbbb;
+    margin: auto;
+    margin-top: 15px;
+/*    width: 800px;*/
+}
+
+a{ 
+    color:              #005DD8;
+    text-decoration:    none; 
+}
+a:hover {
+    color:              #BA5E1C;
+    text-decoration:    underline; 
+}
+
+p, ul, li, b {
+/*    width: 800px;*/
+    margin:auto;
+}
